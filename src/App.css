@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.yellow {
+  color:  blue;
+}
+.result{
+  max-height: 60vh;
+  width: fit-content;
+  margin: 0 auto;
+  overflow-y: scroll;
+}
